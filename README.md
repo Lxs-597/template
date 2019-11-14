@@ -1,4 +1,4 @@
-# weighing-client
+# A project template for vue
 
 ## Project setup
 ```
